@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Spotlight | あなたのお気に入りの場所にスポットライトをあてよう</title>
+<title>Spotlight | お気に入りの場所にスポットライトをあてよう</title>
 </head>
 <body>
 
